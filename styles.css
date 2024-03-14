@@ -1,0 +1,30 @@
+body{
+    color: rgb(128, 56, 56);
+    background: lightgoldenrodyellow;
+    font-size-adjust: 25px;
+    text-align: center;
+    margin-top: 10px;
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+input{
+    display: block;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 60px;
+}
+button{
+    color: aqua;
+    border: 1px solid wheat;
+    background: lightblue;
+}
+.main{
+    display: block;
+    color: rgb(2, 23, 23);
+    border: 1px solid wheat;
+    background: lightblue;
+
+}
